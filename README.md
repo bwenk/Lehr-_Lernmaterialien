@@ -9,3 +9,9 @@ Die meisten Inhalte liegen in Form von Webseiten vor. Sie basieren auf den Webte
 Diejenigen Inhalte, die als Webseiten vorliegen, können auch offline, d.h. ohne aktive Internetverbindung genutzt werden; allerdings werden dann die verwendeten Schriftarten 'Josefin Slab und 'Open Sans Condensed' (Google Fonts) durch 'Georgia' bzw. 'Verdana' ersetzt, und allfällige eingebettete Videos sind dann nicht verfügbar.
 
 Lizenz: Public Domain
+
+---
+
+## Verzeichnis
+
+* [Begleittext "Chatbots"] (https://github.com/bwenk/Chatbots)
