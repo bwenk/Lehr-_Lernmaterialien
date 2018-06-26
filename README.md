@@ -14,4 +14,8 @@ Lizenz: Public Domain
 
 ## Verzeichnis
 
-* [Begleittext "Chatbots"] (https://github.com/bwenk/Chatbots)
+* Begleittext "Chatbots" (https://github.com/bwenk/Chatbots)
+* Werkstatt "AR - Augmented Reality"
+* Werkstatt "GeoLocation"
+* Werkstatt "NFC - Near Field Communication"
+
