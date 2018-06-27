@@ -18,6 +18,7 @@ Lizenz: Public Domain
 * Begleittext "Digitalisierung von Text und von Bildern" (https://github.com/bwenk/Digitalisierung)
 * Begleittext "HTML5 - HyperText Markup Language Version 5" (https://github.com/bwenk/HTML5)
 * Begleittext "WCMS - Web Content Management Systems" (https://github.com/bwenk/WCMS)
+* Begleittext "Web 3.0: Vom Web of Documents zum Web of Data (https://github.com/bwenk/web3.0)
 * Werkstatt "AR - Augmented Reality" (https://github.com/bwenk/AugmentedReality)
 * Werkstatt "GeoLocation" (https://github.com/bwenk/geoLocation)
 * Werkstatt "NFC - Near Field Communication" (https://github.com/bwenk/nfc)
