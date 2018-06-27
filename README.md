@@ -26,5 +26,5 @@ Lizenz: Public Domain
 * Werkstatt "GeoLocation" (https://github.com/bwenk/geoLocation)
 * Werkstatt "NFC - Near Field Communication" (https://github.com/bwenk/nfc)<br><br>
 
-* Präsentation "MOOCs (Massive Open Online Courses)" (https://github.com/bwenk/moocs)
+* Präsentation "Lebenslanges Lernen mit MOOCs (Massive Open Online Courses)" (https://github.com/bwenk/moocs)
 
