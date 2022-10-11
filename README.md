@@ -4,15 +4,15 @@ Dieses Projekt enthält Lehr- und Lernmaterialien mit thematischen Schwerpunkten
 
 Die Inhalte sind frei (Open Educational Resources, OER).
 
-Die meisten Inhalte liegen in Form von Webseiten vor. Sie basieren auf den Webtechnologien HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), JavaScript, und SVG (Scalable Vector Graphics). Für die Nutzung der Inhalte genügt ein Standard-Browser (Firefox, Safari, Google Chrome, Opera, Microsoft Edge, usw.). Für die allfällige Bearbeitung der Inhalte genügt ein (HTML-) Editor (z.B. Brackets).
+Die meisten Inhalte liegen in Form von Webseiten vor. Sie basieren auf den Webtechnologien HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), JavaScript, und SVG (Scalable Vector Graphics). Für die Nutzung der Inhalte genügt ein Standard-Browser (Firefox, Safari, Google Chrome, Opera, Microsoft Edge, usw.). Für die allfällige Bearbeitung der Inhalte genügt ein (HTML-) Editor (z.B. Bluefish).
 
-Diejenigen Inhalte, die als Webseiten vorliegen, können auch offline, d.h. ohne aktive Internetverbindung genutzt werden; allerdings werden dann die verwendeten Schriftarten 'Josefin Slab und 'Open Sans Condensed' (Google Fonts) durch 'Georgia' bzw. 'Verdana' ersetzt, und allfällige eingebettete Videos sind dann nicht verfügbar.
-
-Lizenz: Public Domain
+Lizenz: CC-BY
 
 ---
 
 ## Verzeichnis
+
+* OER Metadata Editor
 
 * Arbeitsblatt "Netzneutralität" (https://github.com/bwenk/netNeutrality)<br><br>
 
@@ -26,5 +26,4 @@ Lizenz: Public Domain
 * Werkstatt "GeoLocation" (https://github.com/bwenk/geoLocation)
 * Werkstatt "NFC - Near Field Communication" (https://github.com/bwenk/nfc)<br><br>
 
-* Präsentation "Lebenslanges Lernen mit MOOCs (Massive Open Online Courses)" (https://github.com/bwenk/moocs)
 
